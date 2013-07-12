@@ -1,0 +1,11 @@
+#*
+.#*
+*~
+_site/
+.classpath
+.project
+.settings/
+samples/
+spring-security-jwt/
+spring-security-oauth/
+spring-security-oauth2/
