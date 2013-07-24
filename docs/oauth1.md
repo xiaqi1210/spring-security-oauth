@@ -5,6 +5,13 @@ home: ../
 ---
 
 
+---
+title: Docs
+layout: default
+home: ../
+---
+
+
 # OAuth 1 Developers Guide
 
 ## Introduction

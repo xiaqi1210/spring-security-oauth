@@ -5,6 +5,13 @@ home: ../
 ---
 
 
+---
+title: Docs
+layout: default
+home: ../
+---
+
+
 # Developers Guide
 
 ## Preparation

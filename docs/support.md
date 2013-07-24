@@ -5,6 +5,13 @@ home: ../
 ---
 
 
+---
+title: Docs
+layout: default
+home: ../
+---
+
+
 # Support
 
 Questions about OAuth for Spring Security can be posed at the [forum at SpringSource](http://forum.springsource.org/forumdisplay.php?f=79).

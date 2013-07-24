@@ -5,6 +5,13 @@ home: ../
 ---
 
 
+---
+title: Docs
+layout: default
+home: ../
+---
+
+
 * [Home](Home.html)
 * [Tuturial](tutorial.html)
 * [OAuth 1.0](oauth1.html)
