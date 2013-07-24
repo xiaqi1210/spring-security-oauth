@@ -44,7 +44,7 @@ Lists of issues addressed per release can be found in
 
 ## Additional Resources
 
-* [Spring Security OAuth User Guide](docs/Home.md)
+* [Spring Security OAuth User Guide](docs/Home.html)
 * [Spring Security OAuth Source](http://github.com/SpringSource/spring-security-oauth)
 * [Spring Security OAuth Forum](http://forum.springsource.org/forumdisplay.php?f=79)
 
